@@ -1,7 +1,0 @@
-Přátelsky MERGE 2.4.8
-
-- Combo stop screen se spouští až při COMBO ×5.
-- Přidány čtyři flákačské hlášky pro ajťáka.
-- Spící Tomáš: ODPOČIŇ SI.
-- Tomáš s puškou: UŽ TOHO OPRAVDU NECH.
-- Tomáš s velkou hlavou: TO JE BLBĚ.
